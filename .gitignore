@@ -1,0 +1,8 @@
+.vscode
+node_modules
+SamsApp
+*.png
+refactor_2.js
+refactor.js
+testing.js
+cafe.js
